@@ -10,7 +10,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		
-		<sonar.projectKey>ualhmis_junitComplejo</sonar.projectKey>
+		<sonar.projectKey>ualhmis_sesion05Junit</sonar.projectKey>
   		<sonar.organization>ualhmis-2</sonar.organization>
   		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
   		
