@@ -6,3 +6,5 @@ Ejercicios de la sesion 05 con JUnit. Proyecto de ejemplo del Ejercicio 1, maven
 Resuelto con JUnit 5 y test parametrizados. 
 
 Construido en Jenkins. Badge proporcionado por el Embeddable Build Status Plugin.
+
+SonarCloud.io (https://sonarcloud.io/project/configuration?analysisMode=GitHubAutoScanWaitCommits&id=ualhmis_sesion05Junit)
