@@ -1,5 +1,6 @@
 # Sesion05 JUnit
 [![Build Status](http://cnsa19jenkins.eastus2.cloudapp.azure.com/buildStatus/icon?job=sesion05JUnit)](http://cnsa19jenkins.eastus2.cloudapp.azure.com/view/HMIS/job/sesion05JUnit/)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ualhmis_sesion05Junit&metric=alert_status)](https://sonarcloud.io/dashboard?id=ualhmis_sesion05Junit)
 
 Ejercicios de la sesion 05 con JUnit. Proyecto de ejemplo del Ejercicio 1, mavenizado. 
 
