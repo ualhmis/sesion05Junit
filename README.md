@@ -9,3 +9,7 @@ Resuelto con JUnit 5 y test parametrizados.
 Construido en Jenkins. Badge proporcionado por el Embeddable Build Status Plugin.
 
 SonarCloud.io (https://sonarcloud.io/project/configuration?analysisMode=GitHubAutoScanWaitCommits&id=ualhmis_sesion05Junit)
+
+Para lanzar el análisis de Sonar con maven:
+1. Genera el login [token](https://docs.sonarqube.org/latest/user-guide/user-token/)
+2. Ejecuta los goals de maven: clean verify sonar:sonar -Dsonar.login=$SONAR_LOGIN_TOKEN
